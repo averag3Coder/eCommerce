@@ -1,4 +1,4 @@
-package UseCaseTest
+package Test.UseCaseTest
 
 import org.scalatest.funsuite.AnyFunSuite
 
