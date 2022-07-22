@@ -1,7 +1,5 @@
 package Infrastructure.Stream
 
-import Core.Entity.ItemEntity
-
 trait CreateItemStream
 {
     def getId: Int

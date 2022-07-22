@@ -1,6 +1,5 @@
 package Mock.StreamMock
 
-import Core.Entity.ItemEntity
 import Infrastructure.Stream.CreateItemStream
 
 object CreateItemStreamMock extends CreateItemStream

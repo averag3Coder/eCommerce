@@ -1,7 +1,8 @@
 package Test.EntityTest
 
-import Core.Entity.ItemEntity
 import org.scalatest.funsuite.AnyFunSuite
+
+import Core.Entity.ItemEntity
 
 class ItemEntityTest extends AnyFunSuite
 {
