@@ -1,4 +1,4 @@
-name := "eCommerce"
+name := "eCommerce_old"
 
 scalaVersion := "3.1.3"
 
